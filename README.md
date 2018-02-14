@@ -1,3 +1,3 @@
 # TestRepo
 
-Test Git integration
+Test Git integration with Jira
