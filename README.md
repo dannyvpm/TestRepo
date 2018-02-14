@@ -1,4 +1,3 @@
 # TestRepo
 
-Test Git integration with Jira
-Test
+Corrected display image
