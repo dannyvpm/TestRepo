@@ -1,3 +1,3 @@
 # TestRepo
 
-Test commit
+Test Git integration
